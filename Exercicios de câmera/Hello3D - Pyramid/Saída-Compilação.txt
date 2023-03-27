@@ -1,0 +1,13 @@
+﻿1>------ Compilação iniciada: Projeto: Hello3D - Pyramid, Configuração: Debug Win32 ------
+1>Origem.cpp
+1>c:\users\fernando\desktop\unisinos\cadeiras\computação gráfica\aula 4\exercicio - movimentando a câmera\cg2023-1-main\hello3d - pyramid\hello3d - pyramid\origem.cpp(403): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+1>c:\users\fernando\desktop\unisinos\cadeiras\computação gráfica\aula 4\exercicio - movimentando a câmera\cg2023-1-main\hello3d - pyramid\hello3d - pyramid\origem.cpp(404): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+1>c:\users\fernando\desktop\unisinos\cadeiras\computação gráfica\aula 4\exercicio - movimentando a câmera\cg2023-1-main\hello3d - pyramid\hello3d - pyramid\origem.cpp(408): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+1>c:\users\fernando\desktop\unisinos\cadeiras\computação gráfica\aula 4\exercicio - movimentando a câmera\cg2023-1-main\hello3d - pyramid\hello3d - pyramid\origem.cpp(409): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+1>c:\users\fernando\desktop\unisinos\cadeiras\computação gráfica\aula 4\exercicio - movimentando a câmera\cg2023-1-main\hello3d - pyramid\hello3d - pyramid\origem.cpp(410): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+1>c:\users\fernando\desktop\unisinos\cadeiras\computação gráfica\aula 4\exercicio - movimentando a câmera\cg2023-1-main\hello3d - pyramid\hello3d - pyramid\origem.cpp(411): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+1>c:\users\fernando\desktop\unisinos\cadeiras\computação gráfica\aula 4\exercicio - movimentando a câmera\cg2023-1-main\hello3d - pyramid\hello3d - pyramid\origem.cpp(413): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+1>c:\users\fernando\desktop\unisinos\cadeiras\computação gráfica\aula 4\exercicio - movimentando a câmera\cg2023-1-main\hello3d - pyramid\hello3d - pyramid\origem.cpp(447): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+1>Hello3D - Pyramid.vcxproj -> C:\Users\Fernando\Desktop\Unisinos\Cadeiras\Computação Gráfica\Aula 4\Exercicio - Movimentando a câmera\CG2023-1-main\Hello3D - Pyramid\Debug\Hello3D - Pyramid.exe
+1>Projeto de compilação pronto "Hello3D - Pyramid.vcxproj".
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
