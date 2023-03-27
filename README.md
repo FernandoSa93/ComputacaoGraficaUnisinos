@@ -1,2 +1,2 @@
 # ComputacaoGraficaUnisinos
-Exercícios de trabalhos da cadeira de computação gráfica Unisinos
+Exercícios e trabalhos da cadeira de computação gráfica Unisinos
