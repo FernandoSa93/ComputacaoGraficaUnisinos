@@ -8,5 +8,5 @@
   X, Y, e Z: Rotação da malha selecionada nos eixos correspondentes
   0, 1 e 2(Teclado alfanumérico): Translação da malha selecionada nos eixos correspondentes
   TAB: Alterna entre a malha selecionada
-  + e -(Teclado numérico): Aumentar ou diminuir a escala da malha selecionada
+  Teclas de soma e subtração(Teclado numérico): Aumentar ou diminuir a escala da malha selecionada
   SPACE: Reseta a cena
