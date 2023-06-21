@@ -1,0 +1,23 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Floor.001
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 1.25 0.2 0 -s 1 2.5 1 C:/Users/Fernando/Desktop/Unisinos/Cadeiras/Computação Gráfica/Trabalho GA/Cena/Modelo Quarto/11-obj/.OBJ/C:/Users/rscnaa/Downloads/Compressed/Blender Room/Room #1/TEXTURES/Floor/Wood051_2K_Color.jpg
+map_Bump -o 1.25 0.2 0 -s 1 2.5 1 C:/Users/Fernando/Desktop/Unisinos/Cadeiras/Computação Gráfica/Trabalho GA/Cena/Modelo Quarto/11-obj/.OBJ/C:/Users/rscnaa/Downloads/Compressed/Blender Room/Room #1/TEXTURES/Floor/Wood051_2K_Normal.jpg
+
+newmtl Wall.001
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.746132 0.654071
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
