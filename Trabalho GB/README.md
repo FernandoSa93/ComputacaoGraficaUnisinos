@@ -1,4 +1,4 @@
-# Trabalho GA Processamento Gráfico - Unisinos 2023/1 
+# Trabalho GB Processamento Gráfico - Unisinos 2023/1 
 
 # Criado por Fernando Sá 
 
